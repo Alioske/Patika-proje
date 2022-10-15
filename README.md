@@ -1,2 +1,3 @@
-# Patika-proje
-Veri Yapıları ve Alforitma  Projeleri
+<ALİ OSMAN KESTANE>
+
+<COMPUTER PROGRAMMER>
